@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python and Encryption Algorithms!
+- 🤔 I’m looking for help with anything that involves heavy Math skills
+- 💬 Ask me about Javascript
+- 📫 How to reach me: eric2k@vt.edu
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I majored in Math yet I am still bad at it
